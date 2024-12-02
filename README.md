@@ -21,4 +21,6 @@ A simple yet functional clock application built using HTML, CSS, and JavaScript.
 
 ---
 
-
+## Checkout the clocks deployed on render:
+Analog Clock : https://analog-clock-o9qz.onrender.com
+Digital Clock : https://digital-clock-ws72.onrender.com
